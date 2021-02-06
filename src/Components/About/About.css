@@ -1,0 +1,35 @@
+/* MORE ABOUT ME & SKILLS */
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+h1, h2, h3, h4 {
+    font-family: 'Righteous', sans-serif !important;
+    text-transform: uppercase;
+    padding: 15px;
+}
+
+.skills {
+    height: 100%;
+    padding: 20px;
+}
+.skills h3, p {
+    text-align: center;
+}
+
+.skill-box {
+    background-color: white;
+    -moz-box-shadow-bottom: 0 4px 2px -2px rgba(0, 0, 0, 0.308);
+    -webkit-box-shadow-bottom:  0 4px 2px -2px rgba(0, 0, 0, 0.308);
+     box-shadow: 0 4px 2px -2px rgba(61, 61, 61, 0.308);
+     padding: 15px;
+     border-radius: 12px;
+}
+.col-md-4:first-child{
+    border-right: 1px solid grey;
+}
+.col-md-4:last-child{
+    border-left: 1px solid grey;
+}
+
+ul, li {
+    list-style-type: none;
+}

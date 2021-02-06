@@ -1,0 +1,70 @@
+.hero {
+    background-size: 400% 400%;
+    animation: 15s ease infinite;
+    min-height: 60vh;
+    padding: 50px 0;
+    width: 100%;
+    background: linear-gradient(45deg,#F17C58, #E94584, #24AADB , #27DBB1, #74b9ff, #a29bfe);
+    background-size: 600% 100%;
+    animation: gradient 16s linear infinite;
+    animation-direction: alternate;
+}
+@keyframes gradient {
+    0% {background-position: 0%}
+    100% {background-position: 100%}
+}
+/* HERO SECTION */
+.hero-text {
+    width: 80%;
+    padding: 15px;
+    margin: 90px auto;
+    text-align: center;
+}
+.hero-text h1 {
+    color: white;
+    font-size: 2.2em;
+
+    margin-bottom: 0;
+}
+.hero-text .lead {
+    margin-top: 0;
+    color: white;
+    font-size: 22px;
+}
+.hero .fa-icons {
+    color: #ffffff;
+    padding: 8px;
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    transition: 0.5s;
+    margin: 0 5px;
+}
+.hero .fa-icons:hover {
+    color: #2980b9;
+    background-color: #ffffff;
+    transition: 0.5s;
+}
+.hero img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.hero img:hover {
+    transition: 0.5s;
+    filter: grayscale(0);
+}
+
+/* PROJECTS/PORTFOLIO */
+.projects {
+    text-align: center;
+}
+
+.projects img {
+    width: 80%;
+    margin: 0 auto;
+}
+.projects .row {
+    margin-bottom: 20px;
+}

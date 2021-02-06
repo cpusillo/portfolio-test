@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Passbolt",
+        "description": "Secure Password Generator",
+        "technologies": "Javascript, JQuery",
+        "href": "http://cpusillo.github.io/passbolt",
+        "img": "https://raw.githubusercontent.com/cpusillo/assets/main/img/PASSBOLT.png"
+    },
+    {
+        "id": 2,
+        "name": "Herbizzle",
+        "description": "Medical Marijuana Strain Tracker",
+        "technologies": "JQuery, Node, MySQL",
+        "href": "http://protected-fjord-40168.herokuapp.com/",
+        "img": "https://raw.githubusercontent.com/cpusillo/assets/main/img/HERBIZZLE.png"
+    },
+    {
+        "id": 3,
+        "name": "Employee Directory",
+        "description": "React Employee Directory",
+        "technologies":"React, MongoDB",
+        "href": "https://cpusillo.github.io/employee-directory/",
+        "img": "https://raw.githubusercontent.com/cpusillo/assets/main/img/EMPLOYEEDIRECTORY.png"
+    },
+    {
+        "id": 4,
+        "name": "Weather Dash",
+        "description": "Weather dashboard",
+        "technologies": "JQuery, OpenWeather API",
+        "href": "https://cpusillo.github.io/weather-dash/",
+        "img": "https://raw.githubusercontent.com/cpusillo/assets/main/img/WEATHERDASH.png"
+    },
+    {
+        "id": 5,
+        "name": "Day Planner",
+        "description": "Daily schedule management",
+        "technologies": "JQuery, Javascript",
+        "href": "https://cpusillo.github.io/dayPlanner/",
+        "img": "https://raw.githubusercontent.com/cpusillo/assets/main/img/DAYPLANNER.png"
+    },
+    {
+        "id": 6,
+        "name": "Books Search",
+        "description": "MERN Books Search",
+        "technologies": "React, Express, Mongo, Google Books API",
+        "href": "https://stark-river-11475.herokuapp.com/",
+        "img": "https://raw.githubusercontent.com/cpusillo/cpusillo.github.io/master/img/BOOKSSEARCH.png"
+    }
+]
